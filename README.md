@@ -19,5 +19,6 @@ The sample showcases a scenario where documents can be captured using a mobile c
     ```bash
     npm app.js
     ```
+    
+    https://github.com/yushulx/web-document-scanning-mobile-capture/assets/2202306/b1cd6ac1-17cd-4b7e-826f-b24009472387
 
-    https://user-images.githubusercontent.com/2202306/226501588-8e7dec62-63d7-4862-8685-00a1129761d4.mp4
