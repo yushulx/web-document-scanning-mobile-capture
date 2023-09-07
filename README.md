@@ -17,7 +17,7 @@ The sample showcases a scenario where documents can be captured using a mobile c
 
 4. Start the web server:
     ```bash
-    npm app.js
+    node app.js
     ```
     
     https://github.com/yushulx/web-document-scanning-mobile-capture/assets/2202306/b1cd6ac1-17cd-4b7e-826f-b24009472387
